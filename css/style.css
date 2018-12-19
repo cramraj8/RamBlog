@@ -1427,3 +1427,17 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+.slider-text-inner h1 {
+  color: white !important;
+  text-shadow: #000;
+}
+
+.slider-text-inner h2 {
+  color: white !important;
+}
+/* 
+.slider-text-inner .btn {
+  color: white !important;
+  border-color: white !important;
+} */
